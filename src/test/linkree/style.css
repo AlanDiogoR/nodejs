@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  font-family: monospace;
+}
+
+main {
+  width: 100%;
+  background-color: #7e49be;
+}
