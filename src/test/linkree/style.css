@@ -37,3 +37,11 @@ a {
   color: white;
   text-decoration: none;
 }
+aside div:hover {
+  border-radius: 999px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
