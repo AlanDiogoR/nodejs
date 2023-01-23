@@ -29,19 +29,12 @@ aside div {
   align-items: center;
 }
 
-aside div:hover {
-  border-radius: 999px;
-}
-
-a {
-  color: white;
-  text-decoration: none;
-}
-aside div:hover {
-  border-radius: 999px;
-}
-
-a {
-  color: white;
-  text-decoration: none;
+div {
+  background-color: #7e49be;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
