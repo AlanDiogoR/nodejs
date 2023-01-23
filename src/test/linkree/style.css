@@ -15,3 +15,25 @@ main {
   width: 100%;
   background-color: #7e49be;
 }
+
+aside {
+  padding: 2rem;
+}
+aside div {
+  height: 3rem;
+  border: 2px solid black;
+  border-radius: 8px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+aside div:hover {
+  border-radius: 999px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
